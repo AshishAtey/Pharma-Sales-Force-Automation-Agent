@@ -1,0 +1,16 @@
+doctor_id,doctor_name,doctor_speciality,therapy_area,hospital_id,avg_weekly_rx
+D001,Dr. R. Sharma,Cardiologist,Cardiology,H001,120
+D002,Dr. S. Verma,Physician,General Medicine,H002,40
+D003,Dr. A. Kapoor,Endocrinologist,Diabetology,H003,85
+D004,Dr. P. Iyer,Pulmonologist,Respiratory,H004,65
+D005,Dr. N. Mehta,Neurologist,Neurology,H005,30
+D006,Dr. M. Rao,Cardiologist,Cardiology,H001,95
+D007,Dr. V. Ghosh,Orthopedician,Orthopedics,H002,22
+D008,Dr. L. Bose,Pediatrician,Pediatrics,H003,55
+D009,Dr. K. Iqbal,Gastroenterologist,Gastroenterology,H002,28
+D010,Dr. T. Singh,Nephrologist,Nephrology,H004,18
+D011,Dr. R. Desai,Cardiologist,Cardiology,H003,130
+D012,Dr. S. Mukherjee,Physician,General Medicine,H004,47
+D013,Dr. A. Bhattacharya,Gynaecologist,Gynaecology,H005,36
+D014,Dr. F. Khan,Dermatologist,Dermatology,H001,20
+D015,Dr. Y. Patel,Pulmonologist,Respiratory,H004,70

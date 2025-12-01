@@ -1,0 +1,3 @@
+rcpa_id,visit_date,mr_id,chemist_id,chemist_name,town_city,your_brand_name,your_strength,your_mrp,your_rx_captured,your_conversion_done,comp_brand_name,comp_mrp,comp_rx_share,stock_availability,avg_margin_percent,lost_business_reason,weekly_demand_units,photo_proof_url
+R0001,2025-11-20,M001,C001,HealthPlus Meds,Mohali,Apixaban,5 mg,450,15,12,Rivaroxaban,420,8,In stock,18,Competitor discount,25,https://example.com/R1
+R0002,2025-11-21,M002,C002,CareWell Pharmacy,Mohali,Rosuvastatin,20 mg,90,10,9,Atorvastatin,85,7,Low stock,22,Local brand preferred,12,https://example.com/R2

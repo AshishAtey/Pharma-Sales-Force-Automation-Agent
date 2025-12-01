@@ -1,0 +1,4 @@
+visit_id,mr_id,visit_date,visit_time,doctor_id,product_detailed,core_message_shared,samples_provided,rx_commitment,expected_rx_volume,competitor_mentioned,objections_noted,call_duration_min,digital_engagement,sentiment_score,ai_call_score,next_best_action,visit_status,approval_status,hospital_id,manager_comments,geo_lat,geo_long
+V0001,M001,2025-11-20,10:15,D001,Apixaban 5 mg,Stroke prevention,Yes|2,Yes,120,Rivaroxaban,Price,12,True,0.75,0.82,Follow-up,Completed,Approved,H001,Good,30.67995,76.72211
+V0002,M001,2025-11-21,15:00,D006,Rosuvastatin 20 mg,Lipid control,Yes|1,Yes,95,Atorvastatin,Prefers competitor,10,False,0.68,0.79,Clinical brief,Completed,Approved,H001,Ok,30.67995,76.72211
+V0003,M002,2025-11-18,11:00,D003,Empagliflozin,SGLT2i,Yes|0,No,85,Dapagliflozin,Renal concern,9,True,0.62,0.7,Renal leaflet,Completed,Approved,H003,Needs data,30.73903,76.71506

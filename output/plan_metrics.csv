@@ -1,0 +1,6 @@
+metric,value
+total_scheduled_visits,15
+total_doctors_scheduled,15
+total_doctors,15
+segment_counts,"{""Mid"": 7, ""Low"": 6, ""High"": 2}"
+mr_counts,"{""M001"": 4, ""M002"": 4, ""M003"": 4, ""M004"": 3}"
